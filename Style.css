@@ -9,7 +9,7 @@
 .main-box::before {
     position: absolute;
     content: " ";
-    background-image: url('/Images/india.jpg');
+    background-image: url('/Clock/Images/india.jpg');
     width: 100%;
     height: 100vh;
     background-size: cover;
